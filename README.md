@@ -114,7 +114,7 @@ A partir da modelagem e dos fatores explicativos identificados, recomenda-se:
 ## 📁 Estrutura do Repositório
 
 ```
-├── TelecomX__etapa_2_TERMINADO.ipynb   # Notebook com análise preditiva
+├── TelecomX__etapa_2.ipynb   # Notebook com análise preditiva
 ├── telecomx_data_gold.csv              # Base de dados tratada
 ├── requirements.txt                    # Lista de dependências
 └── README.md                           # Documentação do projeto
